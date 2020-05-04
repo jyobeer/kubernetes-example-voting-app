@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1b32b9a-3a87-452e-91c0-0decf8e46058" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/postres-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker-app-deployment.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bRAy5l0g5dnxJgp7tAmDd42IFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jitu\PycharmProjects\example-voting-app-kube" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1b32b9a-3a87-452e-91c0-0decf8e46058" name="Default Changelist" comment="" />
+      <created>1588584783625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588584783625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588585163475">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1588585163475" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1588585123379">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588585123379" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1588584968125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1588584968125" />
+    <state x="507" y="139" width="585" height="582" key="find.popup" timestamp="1588599854175">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="139" width="585" height="582" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1588599854175" />
+  </component>
+</project>
